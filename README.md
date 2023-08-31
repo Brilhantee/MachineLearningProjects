@@ -1,1 +1,1 @@
-# Machine learning (MC886)
+# Machine learning Projects
